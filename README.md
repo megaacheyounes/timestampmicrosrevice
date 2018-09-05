@@ -1,2 +1,1 @@
-# timestampmicrosrevice
-timestamp microservice for the freecodecamp certificate
+simple timestamp microservice for freecodecamp certificate
