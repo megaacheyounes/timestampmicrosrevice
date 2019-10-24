@@ -1,2 +1,2 @@
-# time stamp microsrevice (glitch branche)
+# time stamp microsrevice (glitch branch)
 timestamp microservice for the freecodecamp certificate
